@@ -1,0 +1,9 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /introduccion/spring
+    
+nombreProyecto:
+  spring:
+    nombre: introduccion a spring
+    
